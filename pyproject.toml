@@ -1,0 +1,14 @@
+[project]
+name = "agentic-background-crawlJobs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=0.95.0",
+    "crewai-tools>=0.32.1",
+    "flask>=3.1.0",
+    "flask-cors>=5.0.0",
+    "load-dotenv>=0.1.0",
+    "pydantic>=2.10.5",
+]
